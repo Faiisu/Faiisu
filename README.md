@@ -7,7 +7,7 @@ I build software for device data acquisition, telemetry, and practical data syst
 ## Selected projects
 
 - **[DAQNavi data forwarder](https://github.com/Faiisu/DAQNavi-data-forwarder)** — Collects measurements from Advantech DAQ devices and delivers them to PostgreSQL/TimescaleDB, InfluxDB, or MQTT. A local SQLite spool retains committed records until delivery completes.
-- **[Thai speech and keyword detection](https://github.com/Faiisu/speech_to_text)** — Tests Thai Whisper models for transcription and keyword spotting, with a station service for continuous audio capture.
+- **[Thai speech and keyword detection](https://github.com/Faiisu/speech_to_text)** — Tests and optimize Thai Whisper models for transcription and keyword spotting on ubx-330m for best performance output, with a station service for continuous audio capture.
 - **[MUSASHI II](https://github.com/Faiisu/musashi-ii) and [MUSASHI IV](https://github.com/Faiisu/musashi-iv)** — Device telemetry and control services with web dashboards, using serial acquisition and API streaming respectively.
 - **[Asset Reservation System](https://github.com/Faiisu/asset-reserve)** — A full-stack asset reservation and management application with a React frontend, NestJS/Fastify backend, PostgreSQL database, and visual recognition service.
 
